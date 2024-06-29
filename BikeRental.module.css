@@ -1,0 +1,39 @@
+.div {
+  margin-top: 70px;
+}
+
+.mainDiv > img {
+  width: 315px;
+}
+
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: left;
+  justify-content: center;
+  width: 340px;
+  height: 390px;
+  padding: 12px 12px;
+  margin-left: 26px;
+  background-color: whitesmoke;
+  /* border-radius: 6px; */
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  font-size: 15px;
+}
+
+.mainDiv > button {
+  padding: 6px 8px;
+  color: black;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: lightgrey;
+  border-radius: 4px;
+  border: none;
+}
+
+.grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(4, 350px);
+}

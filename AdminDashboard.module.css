@@ -1,0 +1,56 @@
+.div {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+.mainDiv {
+  margin-bottom: 50px;
+}
+
+.mainDiv > img {
+  width: 325px;
+  height: 225px;
+}
+
+.mainDiv > p {
+  font-size: 16px;
+  margin-top: 6px;
+}
+
+.subDiv {
+  display: flex;
+  gap: 45px;
+  margin-top: 50px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.input > input {
+  width: 325px;
+  padding: 6px 8px;
+  background-color: whitesmoke;
+  outline: none;
+  border: 1px solid lightgray;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.input > p {
+  font-size: 17px;
+  margin-bottom: 3px;
+}
+
+.inputs > button {
+  padding: 8px 8px;
+  border-radius: 6px;
+  border: 1px solid whitesmoke;
+  background-color: lightgrey;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 16px;
+}

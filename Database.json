@@ -1,0 +1,105 @@
+{
+  "Bikes": [
+    {
+      "id": "1",
+      "image": "https://bd.gaadicdn.com/processedimages/yamaha/mt-15-2-0/source/mt-15-2-06613f885e681c.jpg",
+      "BikeName": "Yamaha MT-15",
+      "BikeNumber": "AP095478",
+      "BikeRent": 100,
+      "BikesAvailable": 5,
+      "RideStatus": true
+    },
+    {
+      "id": "2",
+      "image": "https://bd.gaadicdn.com/processedimages/yamaha/yamaha-fzs/494X300/m_fz-s_11540276956.jpg?imwidth=412&impolicy=resize",
+      "BikeName": "Yamaha FZS",
+      "BikeNumber": "TS095478",
+      "BikeRent": 100,
+      "BikesAvailable": 10
+    },
+    {
+      "id": "3",
+      "image": "https://bd.gaadicdn.com/processedimages/yamaha/fz-x/source/fz-x64e069643e1be.jpg",
+      "BikeName": "Yamaha FZX",
+      "BikeNumber": "AP047890",
+      "BikeRent": 100,
+      "BikesAvailable": 9
+    },
+    {
+      "id": "4",
+      "image": "https://bd.gaadicdn.com/processedimages/bajaj/bajaj-pulsar-200-ns/source/bajaj-pulsar-200-ns65df4e8f1a6e0.jpg",
+      "BikeName": "Bajaj Pulsar NS-200",
+      "BikeNumber": "TS085678",
+      "BikeRent": 150,
+      "BikesAvailable": 7,
+      "RideStatus": true
+    },
+    {
+      "id": "5",
+      "image": "https://media.zigcdn.com/media/model/2020/Apr/right-side-view-1915395592_600x400.jpg",
+      "BikeName": "Bajaj Dominar 400",
+      "BikeNumber": "KA052345",
+      "BikeRent": 250,
+      "BikesAvailable": 5,
+      "RideStatus": true
+    },
+    {
+      "id": "6",
+      "image": "https://bd.gaadicdn.com/processedimages/bajaj/pulsar-150-ns/source/pulsar-150-ns65df4f2293bd7.jpg",
+      "BikeName": "Bajaj Pulsar NS-160",
+      "BikeNumber": "TS071234",
+      "BikeRent": 100,
+      "BikesAvailable": 12
+    },
+    {
+      "id": "7",
+      "image": "https://bd.gaadicdn.com/processedimages/bajaj/pulsar-n150/494X300/pulsar-n15065c61732a1d02.jpg",
+      "BikeName": "Bajaj Pulsar N-160",
+      "BikeNumber": "AP082345",
+      "BikeRent": 75,
+      "BikesAvailable": 10
+    },
+    {
+      "id": "8",
+      "image": "https://bd.gaadicdn.com/processedimages/bajaj/bajaj-pulsar-150/source/bajaj-pulsar-150666fe0b60cf46.jpg",
+      "BikeName": "Bajaj Pulsar 150",
+      "BikeNumber": "AP024567",
+      "BikeRent": 75,
+      "BikesAvailable": 15,
+      "RideStatus": true
+    },
+    {
+      "id": "9",
+      "image": "https://bd.gaadicdn.com/processedimages/ktm/125-duke/source/125-duke5fd45a489ef91.jpg",
+      "BikeName": "KTM Duke 125",
+      "BikeNumber": "KA066789",
+      "BikeRent": 100,
+      "BikesAvailable": 8
+    },
+    {
+      "id": "10",
+      "image": "https://bd.gaadicdn.com/processedimages/ktm/ktm-duke/650X420/ktm-duke64900023cc5e6.jpg",
+      "BikeName": "KTM Duke 200",
+      "BikeNumber": "AP064567",
+      "BikeRent": 200,
+      "BikesAvailable": 4
+    },
+    {
+      "id": "11",
+      "image": "https://bd.gaadicdn.com/processedimages/ktm/2024-250-duke/source/2024-250-duke64e475e365836.jpg",
+      "BikeName": "KTM Duke 250",
+      "BikeNumber": "AP056789",
+      "BikeRent": 250,
+      "BikesAvailable": 3
+    },
+    {
+      "id": "12",
+      "image": "https://bd.gaadicdn.com/processedimages/ktm/2021-390-duke/source/2021-390-duke64e477e0ce4bf.jpg",
+      "BikeName": "KTM Duke 390",
+      "BikeNumber": "AP041234",
+      "BikeRent": 350,
+      "BikesAvailable": 2,
+      "RideStatus": true
+    }
+  ]
+}
